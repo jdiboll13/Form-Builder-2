@@ -1,0 +1,5 @@
+Loop through the formData
+  create the HTML
+    majority are <input> tags
+    there is a <textarea> and <select> tags(special case)
+  add to the DOM
